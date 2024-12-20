@@ -1,0 +1,20 @@
+body {
+  margin: 10;
+  padding: 10;
+}
+h1 {
+  color: #ca1e1e;
+  font-size: 30px;
+  letter-spacing: -1px;
+}
+p {
+  color: #333;
+  font-size: 25px;
+  line-height: 1.5;
+}
+p:hover {
+  color: #f20404;
+  font-size: 25px;
+  transform: rotateX(20);
+  text-shadow: #333 1px 10px 1px;
+}
