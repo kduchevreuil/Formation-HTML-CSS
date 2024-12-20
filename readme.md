@@ -6,8 +6,19 @@ Ceci est ma formation !
 - cela
 - souci
 
-'console.log('Hello, world!');'
-
 code :
 
-"console.log('Hello, world!');"
+`console.log('Hello, world!');`
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page de test</title>
+  </head>
+  <body>
+    <h1>Titre de la page</h1>
+    <p>Un paragraphe</p>
+  </body>
+</html>
+```
